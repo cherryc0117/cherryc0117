@@ -6,6 +6,6 @@ I recently graduated from the University of Michigan with a B.S. in Computer Sci
 - 🌱 I am currently studying full-stack web development and technologies in Python.
 - ☺️ Pronouns: She/Her
 - 📖 Favorite Quotation: “Whether it’s the best of times or the worst of times, it’s the only time we’ve got.” —— Art Buchwald
-- :e-mail: How to reach me: [Email](mailto:cherryc@umich.edu)
+- :e-mail: How to reach me: [Email](mailto:cyuan9879@gmail.com)
 
 Thanks for stopping by! 😊
